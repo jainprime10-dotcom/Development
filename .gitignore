@@ -1,0 +1,11 @@
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Generated Prisma client
+/src/generated/prisma
+
+# Test output
+/playwright-report
+/test-results
