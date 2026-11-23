@@ -1,0 +1,6 @@
+2026/10/13-02:16:11.579 2e394a Reusing MANIFEST /Users/peeyushjain/Development/job-application-agent/browser-profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/10/13-02:16:11.579 2e394a Recovering log #3
+2026/10/13-02:16:11.580 2e394a Reusing old log /Users/peeyushjain/Development/job-application-agent/browser-profile/Default/Local Storage/leveldb/000003.log 
+2026/10/13-02:17:11.582 2e394f Level-0 table #5: started
+2026/10/13-02:17:11.586 2e394f Level-0 table #5: 63280 bytes OK
+2026/10/13-02:17:11.588 2e394f Delete type=0 #3
